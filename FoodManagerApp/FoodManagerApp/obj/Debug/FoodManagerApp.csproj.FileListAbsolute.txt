@@ -1,0 +1,12 @@
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.exe.config
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.exe
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.pdb
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.csprojAssemblyReference.cache
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.frmLogin.resources
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.Properties.Resources.resources
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.csproj.GenerateResource.cache
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.csproj.CoreCompileInputs.cache
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.exe
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.pdb
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.frmRegister.resources
+E:\Spring2021\PRN292\Win Form\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.frmHome.resources
